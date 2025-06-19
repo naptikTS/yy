@@ -1,0 +1,6 @@
+C:\Users\student\Documents\Shevaldin\Project2\Project2\x64\Debug\Project2.vcxproj.AssemblyReference.cache
+C:\Users\student\Documents\Shevaldin\Project2\Project2\x64\Debug\Project2.MyForm.resources
+C:\Users\student\Documents\Shevaldin\Project2\Project2\x64\Debug\Project2.vcxproj.GenerateResource.cache
+C:\Users\student\Documents\123\Project2\Project2\x64\Debug\Project2.vcxproj.AssemblyReference.cache
+C:\Users\student\Documents\123\Project2\Project2\x64\Debug\Project2.MyForm.resources
+C:\Users\student\Documents\123\Project2\Project2\x64\Debug\Project2.vcxproj.GenerateResource.cache
