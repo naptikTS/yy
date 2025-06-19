@@ -1,0 +1,9 @@
+C:\Users\student\Documents\Shevaldin\PP3\PP3\x64\Debug\PP3.vcxproj.AssemblyReference.cache
+C:\Users\student\Documents\Shevaldin\PP3\PP3\x64\Debug\PP3.MyForm.resources
+C:\Users\student\Documents\Shevaldin\PP3\PP3\x64\Debug\PP3.vcxproj.GenerateResource.cache
+D:\123\PP3\PP3\x64\Debug\PP3.vcxproj.AssemblyReference.cache
+D:\123\PP3\PP3\x64\Debug\PP3.MyForm.resources
+D:\123\PP3\PP3\x64\Debug\PP3.vcxproj.GenerateResource.cache
+C:\Users\student\Documents\123\PP3\PP3\x64\Debug\PP3.vcxproj.AssemblyReference.cache
+C:\Users\student\Documents\123\PP3\PP3\x64\Debug\PP3.MyForm.resources
+C:\Users\student\Documents\123\PP3\PP3\x64\Debug\PP3.vcxproj.GenerateResource.cache
