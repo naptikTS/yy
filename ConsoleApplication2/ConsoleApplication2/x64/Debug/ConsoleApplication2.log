@@ -1,0 +1,6 @@
+﻿  module_2.cpp
+C:\Users\student\source\repos\ConsoleApplication2\ConsoleApplication2\module_2.cpp(37,9): error C2374: class_avg: переопределение; множественная инициализация
+      C:\Users\student\source\repos\ConsoleApplication2\ConsoleApplication2\module_2.cpp(31,9):
+       см. объявление "class_avg"
+  
+C:\Users\student\source\repos\ConsoleApplication2\ConsoleApplication2\module_2.cpp(37,22): error C2059: синтаксическая ошибка: /
